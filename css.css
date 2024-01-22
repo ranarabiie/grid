@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+padding: 0px;
+font-family: 'Readex Pro', sans-serif;}
+
+.shapone{
+    position: absolute;
+    display: inline-block;
+background-color: #3E32EE;
+padding: 45px;
+padding-bottom: 70px;
+margin-top: 160px;
+margin-right: 300px;
+border-radius: 20px;
+color: white;
+text-align: center;
+line-height: 24px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.result{
+    display: inline-block;
+    background-color: #4828d46e;
+border-radius: 50px;
+padding: 30px 30px 10px 30px;
+line-height: 25px;
+}
+
+.number{
+    font-size: 40px;
+}
+
+.shaptwo{
+box-shadow: 10px 10px 95px rgba(0, 0, 0, 0.162);
+    display: inline-block;
+    position: absolute;
+    padding: 45px;
+    margin-top: 160px;
+    margin-right: 625px;
+    border-radius: 20px;
+}
+
+h2{
+    margin-top: -20px;
+    margin-right: 20px;
+}
+
+article{
+    padding-right: 100px;
+    padding-left: 30px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.reac{
+    position: absolute;
+    margin-top: 15px;
+    margin-right: -80px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+.shaptowp{
+    margin-right: -45px;
+    display: inline-block;
+}
+
+
+button{
+border: 0px;
+color: white;
+border-radius: 20px;
+width: 250px;
+height: 45px;
+font-size: 20px;
+margin-top: 30px;
+    background-color: #303b59;
+}
+@media (max-width:1023px){
+.shapone{
+display: grid;
+margin-top: -40px;
+margin-right: 35px;
+
+
+}
+
+
+.shaptwo{
+    margin-right: 30px;
+    margin-top: 420px;
+    
+}
+}
